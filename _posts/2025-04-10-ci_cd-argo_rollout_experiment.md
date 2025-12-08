@@ -1,19 +1,9 @@
 ---
-title: "Argo_rollout:: Experiment"
-excerpt: "잘 되는지 테스트를 해보자."
-
-categories:
-  - ci_cd
-tags:
-  - [ci_cd, argo_rollout]
-
-permalink: /ci_cd/argo_rollout_experiment
-
-toc: true
-toc_sticky: true
-
-date: 2025-04-10
-last_modified_at: 2025-04-10
+title: "Argo Rollout Experiment 실습"
+date: 2025-04-10 00:00:00 +0900
+categories: [CI/CD, GitOps]
+tags: [argo-rollout, kubernetes, experiment, a-b-testing]
+description: "Argo Rollout의 Experiment 기능을 활용한 A/B 테스트 실습"
 ---
 
 # Argo experiment

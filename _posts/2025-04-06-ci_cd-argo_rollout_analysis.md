@@ -1,19 +1,9 @@
 ---
-title: "Argo_rollout:: Experiment"
-excerpt: "잘 되는 거니?"
-
-categories:
-  - ci_cd
-tags:
-  - [ci_cd, argo_rollout]
-
-permalink: /ci_cd/argo_rollout_experiment/
-
-toc: true
-toc_sticky: true
-
-date: 2025-04-06
-last_modified_at: 2025-04-06
+title: "Argo Rollout Analysis 연구"
+date: 2025-04-06 00:00:00 +0900
+categories: [CI/CD, GitOps]
+tags: [argo-rollout, kubernetes, progressive-delivery, canary, blue-green]
+description: "Argo Rollout의 Analysis 기능을 활용한 자동화된 배포 검증"
 ---
 
 ## Argo Rollout Analysis

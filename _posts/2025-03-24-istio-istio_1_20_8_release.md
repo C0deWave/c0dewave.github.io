@@ -1,19 +1,9 @@
 ---
 title: "[Istio] Istio 1.20.8 발표"
-excerpt: "1.20.8 버전에 업데이트 내용은 어떤 것이 있는지 알아봅니다."
-
-categories:
-  - istio
-tags:
-  - [istio]
-
-permalink: /istio/istio_1_20_8_release/
-
-toc: true
-toc_sticky: true
-
-date: 2025-03-24
-last_modified_at: 2025-03-24
+date: 2025-03-24 00:00:00 +0900
+categories: [Istio, Release Notes]
+tags: [istio, release, service-mesh, update]
+description: "Istio 1.20.8 버전의 주요 업데이트 내용을 살펴봅니다."
 ---
 
 istio 에서 1.20.8 버전을 출시했다.

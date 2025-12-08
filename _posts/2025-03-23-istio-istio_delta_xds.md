@@ -1,19 +1,9 @@
 ---
 title: "[Istio] Delta xDS 연구"
-excerpt: "istio delta xDS에 대해 알아보자."
-
-categories:
-  - istio
-tags:
-  - [istio]
-
-permalink: /istio/istio_delta_xds/
-
-toc: true
-toc_sticky: true
-
-date: 2025-03-23
-last_modified_at: 2025-03-23
+date: 2025-03-23 00:00:00 +0900
+categories: [Istio, Service Mesh]
+tags: [istio, xds, delta-xds, envoy, service-mesh]
+description: "Istio 1.22에서 기본 설정이 된 Delta xDS에 대해 알아봅니다."
 ---
 
 ## [Istio] Delta xDS 연구

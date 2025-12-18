@@ -1,9 +1,16 @@
 ---
-title: "[Istio] Sidecar에서 Ambient 모드로 전환하기 - Locality 라우팅까지"
+title: "Istio Sidecar에서 Ambient 모드로 전환하기 - Locality 라우팅까지"
 date: 2025-12-18 00:00:00 +0900
-categories: [Istio, Service Mesh]
-tags: [istio, ambient, sidecar, ztunnel, locality, kubernetes, minikube]
-description: "Minikube 환경에서 Istio Sidecar 모드를 Ambient 모드로 전환하고, Locality 기반 라우팅을 적용하는 방법을 알아봅니다."
+categories: istio
+tags:
+  - istio
+  - ambient
+  - sidecar
+  - ztunnel
+  - locality
+  - kubernetes
+  - minikube
+excerpt: "Minikube 환경에서 Istio Sidecar 모드를 Ambient 모드로 전환하고, Locality 기반 라우팅을 적용하는 방법을 알아봅니다."
 toc: true
 toc_sticky: true
 ---

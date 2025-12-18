@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-remote-theme"
+gem "jekyll", "~> 4.3"
+gem "jekyll-theme-chirpy", "~> 7.0"
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
@@ -11,6 +11,10 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-archives"
   gem "jekyll-seo-tag"
+end
+
+group :test do
+  gem "html-proofer", "~> 5.0"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do

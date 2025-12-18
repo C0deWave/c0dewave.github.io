@@ -1,7 +1,8 @@
 ---
-layout: page
-icon: fas fa-info-circle
-order: 4
+title: "About"
+permalink: /about/
+layout: single
+author_profile: true
 ---
 
 ## C0deWave
@@ -12,8 +13,8 @@ Focus on the reasoning, not just the answer.
 
 DevOps Engineer / SRE
 
-**Location:** Seoul, Korea  
-**Email:** wkdwnaud123@gmail.com  
+**Location:** Seoul, Korea
+**Email:** wkdwnaud123@gmail.com
 **GitHub:** [C0deWave](https://github.com/C0deWave)
 
 ### Interests

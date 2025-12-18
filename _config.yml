@@ -1,70 +1,79 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-theme: jekyll-theme-chirpy
+# Minimal Mistakes Theme Settings
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-lang: ko-KR
-timezone: Asia/Seoul
-
-title: C0deWave's Blog
-tagline: Focus on the reasoning, not just the answer.
-description: >-
-  기술 블로그 - Kubernetes, DevOps, CI/CD, 그리고 생각들
+locale: "ko-KR"
+title: "C0deWave's Blog"
+title_separator: "-"
+subtitle: "Focus on the reasoning, not just the answer."
+name: "C0deWave"
+description: "기술 블로그 - Kubernetes, DevOps, CI/CD, 그리고 생각들"
 url: "https://c0dewave.github.io"
 baseurl: ""
+repository: "C0deWave/c0dewave.github.io"
 
-github:
-  username: C0deWave
-
-social:
-  name: C0deWave
-  email: wkdwnaud123@gmail.com
+# Site Author
+author:
+  name: "C0deWave"
+  avatar: "/assets/images/profile.png"
+  bio: "DevOps Engineer / SRE"
+  location: "Seoul, Korea"
+  email: "wkdwnaud123@gmail.com"
   links:
-    - https://github.com/C0deWave
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/C0deWave"
 
-theme_mode: dual # [light | dark | dual]
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
 
-avatar: /assets/img/profile.png
-
-toc: true
-comments:
-  provider: utterances
-  utterances:
-    repo: C0deWave/c0dewave.github.io
-    issue_term: pathname
-    theme: github-light
-
-google_analytics:
-  id: # your tracking id here
-
-paginate: 10
-
-# Markdown Processing
+# Build Settings
+timezone: Asia/Seoul
 markdown: kramdown
 highlighter: rouge
 
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: highlight
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 # Sass/SCSS
 sass:
+  sass_dir: _sass
   style: compressed
 
-permalink: /posts/:title/
+# Outputting
+permalink: /:categories/:title/
+paginate: 10
+paginate_path: /page:num/
 
 # Plugins
 plugins:
@@ -73,49 +82,43 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-archives
-  - jekyll-seo-tag
+  - jekyll-remote-theme
 
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+# Category Archive
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Comments
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark"
+    issue_term: "pathname"
+    repo: "C0deWave/c0dewave.github.io"
 
 # Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: post
+      layout: single
+      author_profile: true
+      read_time: true
       comments: true
+      share: true
+      related: true
       toc: true
-      permalink: /posts/:title/
+      toc_sticky: true
+  # _pages
   - scope:
-      path: _drafts
+      path: "_pages"
+      type: pages
     values:
-      comments: false
-  - scope:
-      path: ""
-      type: tabs
-    values:
-      layout: page
-      permalink: /:title/
-
-# Exclude from processing
-exclude:
-  - "*.gem"
-  - "*.gemspec"
-  - docs
-  - tools
-  - README.md
-  - LICENSE
-  - "*.config.js"
-  - package*.json
+      layout: single
+      author_profile: true

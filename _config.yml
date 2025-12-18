@@ -30,7 +30,7 @@ social:
 
 theme_mode: dual # [light | dark | dual]
 
-avatar: /assets/images/profile.png
+avatar: /assets/img/profile.png
 
 toc: true
 comments:
@@ -111,34 +111,11 @@ defaults:
 
 # Exclude from processing
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
   - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs
-  - /test
-  - minimal-mistakes-jekyll.gemspec
-  - screenshot.png
-  - screenshot-layouts.png
-  - banner.js
-  - staticman.yml
+  - "*.config.js"
+  - package*.json

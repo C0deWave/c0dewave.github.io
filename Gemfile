@@ -13,6 +13,10 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
 end
 
+group :test do
+  gem "html-proofer", "~> 5.0"
+end
+
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"

@@ -16,7 +16,7 @@ analysis는 crd로써 argo_rollout의 **배포가 잘 이루어 졌는지 분석
 
 analysis가 실패하게 되면 배포는 중단되고 Abort되어 이전 단계로 되돌아가게 된다.
 
-![alt text](/assets/images/posts_img/cicd/argo_rollout_analysis/image.png)
+![alt text](/images/posts_img/cicd/argo_rollout_analysis/image.png)
 
  - 테스트 메트릭에 대한 정의를 DevOps 혼자 하기는 어렵고 개발자들과 한땀한땀 짜야할것 같아 보이는데 함부로 도입하기는 어려워 보이기도 한다.
 
@@ -126,8 +126,8 @@ https://argoproj.github.io/argo-rollouts/analysis/datadog/
 
 데이터 독에서 사용하는 경우에는 쿼리 수집이 안된 경우 nil을 반환하기에 default 함수를 통해서 nil 처리를 진행한다고 한다. 
 
-![alt text](/assets/images/posts_img/cicd/argo_rollout_analysis/image3.png)
+![alt text](/images/posts_img/cicd/argo_rollout_analysis/image3.png)
 
 **트러블 슈팅: count 변수를 넣어주지 않으면 무한히 테스트를 할 수 있다고 경고가 나온다.**
 
-![alt text](/assets/images/posts_img/cicd/argo_rollout_analysis/image2.png)
+![alt text](/images/posts_img/cicd/argo_rollout_analysis/image2.png)

@@ -15,7 +15,7 @@ tags: ["think"]
 
 **"행복의 반대말이 왜 불행이지?"**
 
-![image](/assets/images/posts_img/think/20250404_hapiness/image.png)
+![image](/images/posts_img/think/20250404_hapiness/image.png)
 
 ---
 
@@ -77,7 +77,7 @@ tags: ["think"]
 
 ### 철학자들에게서의 행복
 
-![image](/assets/images/posts_img/think/20250404_hapiness/image2.png)
+![image](/images/posts_img/think/20250404_hapiness/image2.png)
 
 철학자들은 행복을 3가지로 나누어서 바라본다.
 

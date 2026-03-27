@@ -23,7 +23,7 @@ tags: ["think"]
 
 ### 1. 황금열쇠를 수여받다.
 
-![alt text](/assets/images/posts_img/think/20250525_gold_key/IMG_9225.jpeg)
+![alt text](/images/posts_img/think/20250525_gold_key/IMG_9225.jpeg)
 
 작년 한 해 동안 나는 자리에서 꾸준히 성실하게 일해왔다. 어쩌다 보니 노력이 주목받고 인정받아, 연구소를 대표해 ‘황금열쇠’라는 뜻깊은 상을 수상하게 되었다.  
 ps. 진짜 황금 3돈이다 ㅎㄷㄷ, 연구소 1명, 사업부 1명씩 수여 받았다. 
@@ -35,7 +35,7 @@ ps. 진짜 황금 3돈이다 ㅎㄷㄷ, 연구소 1명, 사업부 1명씩 수여
 ---
 
 ### 2. 사내 전체를 대상으로 커피 무료나눔 이벤트를 하다.
-![alt text](/assets/images/posts_img/think/20250525_gold_key/IMG_9238.jpeg)
+![alt text](/images/posts_img/think/20250525_gold_key/IMG_9238.jpeg)
 
 내 성과는 나 혼자 이루어 낸 것이 아니였다.  
 이 기쁨을 나 혼자 누려서는 안된다는 생각이 있었고 이를 나누기 위한 생각을 했다.
@@ -56,7 +56,7 @@ ps. 진짜 황금 3돈이다 ㅎㄷㄷ, 연구소 1명, 사업부 1명씩 수여
 
 ### 3. 모두가 함께 즐긴 행사
 
-![alt text](/assets/images/posts_img/think/20250525_gold_key/2ca989d7836c7932cb420ac2a51509dc_res.jpeg)
+![alt text](/images/posts_img/think/20250525_gold_key/2ca989d7836c7932cb420ac2a51509dc_res.jpeg)
 
 행사를 공지하면서 [ "미쳤다", "이래서 열쇠를 받았나 보다", "커피를 마구 마셔서 거덜 내겠다" ] 등등 여러 이야기를 주셨던게 기억에 남는다.  
 
@@ -74,7 +74,7 @@ ps. 진짜 황금 3돈이다 ㅎㄷㄷ, 연구소 1명, 사업부 1명씩 수여
 
 ### 4. 내가 얻게 된 것들
 
-![](/assets/images/posts_img/think/20250525_gold_key/IMG_9246.jpeg)
+![](/images/posts_img/think/20250525_gold_key/IMG_9246.jpeg)
 
 이벤트를 하면서 정산을 위해 명함을 받았는데  
 회사가 커지면서 명함 디자인이 참 많이 바뀌었다.  

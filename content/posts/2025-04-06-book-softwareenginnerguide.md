@@ -7,7 +7,7 @@ tags: ["book_review", "soft_enginner_guide_book"]
 
 ## journey : 여정 
 
-![alt text](/assets/images/posts_img/book_review/01.softenginnerguidebook/image2.png)
+![alt text](/images/posts_img/book_review/01.softenginnerguidebook/image2.png)
 
 삶의 여정은 너무나 다양하지만 우리는 어느 때든 그 시간에 맞는 무언가를 하는 것을 주문 받습니다.
 
@@ -28,7 +28,7 @@ tags: ["book_review", "soft_enginner_guide_book"]
 
 ### 1부. 개발자 커리어의 기본 사항
 
-![alt text](/assets/images/posts_img/book_review/01.softenginnerguidebook/image.png)
+![alt text](/images/posts_img/book_review/01.softenginnerguidebook/image.png)
 
 1부에서는 개발자, 엔지니어의 커리어 패스에 대한 소개를 해주고 있습니다.  
 3년의 DevOps 경험으로 보면서 느낀 것은 결국 "주인 의식" 이였습니다.  
@@ -67,7 +67,7 @@ tags: ["book_review", "soft_enginner_guide_book"]
 
 ### 3부. 다재다능한 시니어 엔지니어
 
-![alt text](/assets/images/posts_img/book_review/01.softenginnerguidebook/image3.png)
+![alt text](/images/posts_img/book_review/01.softenginnerguidebook/image3.png)
 
 이제는 유능을 넘어선 다능의 영역으로 들어왔습니다.  
 말 그대로 여러개의 "능" 을 가진 것이지요.

@@ -10,6 +10,10 @@ enableRobotsTXT = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
   author = "C0deWave"
   defaultTheme = "dark"
@@ -20,6 +24,8 @@ enableRobotsTXT = true
   ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = true
+  ShowRelatedPosts = true
+  ShowScrollProgressBar = true
   description = "기술 블로그 - Kubernetes, DevOps, CI/CD, 그리고 생각들"
   fuseOpts = {keys = ["title", "permalink", "summary", "content"], includeMatches = true, threshold = 0.3, distance = 100}
 
@@ -33,6 +39,7 @@ enableRobotsTXT = true
 
   [params.comments]
     enabled = true
+
 [[menus.main]]
   identifier = "search"
   name = "🔍 검색"
@@ -40,7 +47,19 @@ enableRobotsTXT = true
   weight = 10
 
 [[menus.main]]
+  identifier = "categories"
+  name = "📂 카테고리"
+  url = "/categories/"
+  weight = 15
+
+[[menus.main]]
   identifier = "tags"
   name = "🏷️ 태그"
   url = "/tags/"
   weight = 20
+
+[[menus.main]]
+  identifier = "archives"
+  name = "📅 아카이브"
+  url = "/archives/"
+  weight = 30

@@ -7,6 +7,9 @@ enableRobotsTXT = true
 [pagination]
   pagerSize = 10
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   author = "C0deWave"
   defaultTheme = "dark"
@@ -16,8 +19,9 @@ enableRobotsTXT = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
-  TocOpen = false
+  TocOpen = true
   description = "기술 블로그 - Kubernetes, DevOps, CI/CD, 그리고 생각들"
+  fuseOpts = {keys = ["title", "permalink", "summary", "content"], includeMatches = true, threshold = 0.3, distance = 100}
 
   [params.homeInfoParams]
     Title = "C0deWave's Blog"

@@ -268,7 +268,7 @@ spec:
 실험을 하기 위해서 테스트 pod를 생성한 것을 볼 수 있다.  
 이는 argo 대시보드에는 나오지 않는다.
 
-![alt text](/assets/images/posts_img/cicd/argo_rollout_experiment/image.png)
+![alt text](/images/posts_img/cicd/argo_rollout_experiment/image.png)
 
 결과를 보기 위해서는 describe를 하는 것을 추천한다.
 하면 테스트가 전부 실패하는 것을 볼 수 있다.

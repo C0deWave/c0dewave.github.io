@@ -1,19 +1,8 @@
 ---
 title: "책임감은 어디에서 오는가?"
-excerpt: "Where does a sense of responsibility come from?"
-
-categories:
-  - think
-tags:
-  - [think]
-
-permalink: /think/responsibility_come_from/
-
-toc: true
-toc_sticky: true
-
-date: 2025-04-13
-last_modified_at: 2025-04-13
+date: 2025-04-13T00:00:00+09:00
+categories: ["think"]
+tags: ["think"]
 ---
 
 # 책임감은 어디에 있나?

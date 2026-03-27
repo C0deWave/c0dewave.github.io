@@ -1,19 +1,8 @@
 ---
 title: "대체 불가능한 인력이 되자"
-excerpt: "누구나 한번쯤은 생각해 봤을 법한..."
-
-categories:
-  - think
-tags:
-  - [think]
-
-permalink: /think/key_people/
-
-toc: true
-toc_sticky: true
-
-date: 2025-03-26
-last_modified_at: 2025-03-26
+date: 2025-03-26T00:00:00+09:00
+categories: ["think"]
+tags: ["think"]
 ---
 
 대체 불가능한 인력이 되자

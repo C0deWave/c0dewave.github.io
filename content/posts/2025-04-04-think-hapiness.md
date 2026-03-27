@@ -1,19 +1,8 @@
 ---
 title: "행복은 충만 치킨이다."
-excerpt: "행복하신가요?"
-
-categories:
-  - think
-tags:
-  - [think]
-
-permalink: /think/hapiness/
-
-toc: true
-toc_sticky: true
-
-date: 2025-04-04
-last_modified_at: 2025-04-04
+date: 2025-04-04T00:00:00+09:00
+categories: ["think"]
+tags: ["think"]
 ---
 
 ## 행복은 충만 치킨이다.

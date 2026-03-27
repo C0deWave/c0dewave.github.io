@@ -1,9 +1,9 @@
 ---
 title: "Argo Rollout Analysis 연구"
-date: 2025-04-06 00:00:00 +0900
-categories: [CI/CD, GitOps]
-tags: [argo-rollout, kubernetes, progressive-delivery, canary, blue-green]
+date: 2025-04-06T00:00:00+09:00
 description: "Argo Rollout의 Analysis 기능을 활용한 자동화된 배포 검증"
+categories: ["CI/CD", "GitOps"]
+tags: ["argo-rollout", "kubernetes", "progressive-delivery", "canary", "blue-green"]
 ---
 
 ## Argo Rollout Analysis

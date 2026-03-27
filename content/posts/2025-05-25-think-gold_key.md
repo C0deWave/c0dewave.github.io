@@ -1,19 +1,8 @@
 ---
 title: "승리는 나눌 때 더 커진다."
-excerpt: "혼자만 성장하는 것으로는 변화를 일으킬 수 없다."
-
-categories:
-  - think
-tags:
-  - [think]
-
-permalink: /think/gole_key/
-
-toc: true
-toc_sticky: true
-
-date: 2025-05-25
-last_modified_at: 2025-05-25
+date: 2025-05-25T00:00:00+09:00
+categories: ["think"]
+tags: ["think"]
 ---
 
 ## Prologue

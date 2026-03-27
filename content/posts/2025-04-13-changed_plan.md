@@ -1,19 +1,8 @@
 ---
 title: "계획은 변경하기 위해 존재한다."
-excerpt: "Plans exist to be changed."
-
-categories:
-  - think
-tags:
-  - [think]
-
-permalink: /think/plan_changed/
-
-toc: true
-toc_sticky: true
-
-date: 2025-04-13
-last_modified_at: 2025-04-13
+date: 2025-04-13T00:00:00+09:00
+categories: ["think"]
+tags: ["think"]
 ---
 
 # 계획은 변경하기 위해 존재한다.

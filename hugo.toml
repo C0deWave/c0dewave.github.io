@@ -1,0 +1,29 @@
+baseURL = "https://blog.jmjang.net/"
+languageCode = "ko"
+title = "C0deWave's Blog"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  author = "C0deWave"
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  description = "기술 블로그 - Kubernetes, DevOps, CI/CD, 그리고 생각들"
+
+  [params.homeInfoParams]
+    Title = "C0deWave's Blog"
+    Content = "DevOps Engineer / SRE"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/C0deWave"
+
+  [params.comments]
+    enabled = true

@@ -1,19 +1,8 @@
 ---
 title: "어떤일을 할 것인가?"
-excerpt: "스스로 삶의 주인이 되어라."
-
-categories:
-  - think
-tags:
-  - [think]
-
-permalink: /think/work_select/
-
-toc: true
-toc_sticky: true
-
-date: 2025-03-29
-last_modified_at: 2025-03-29
+date: 2025-03-29T00:00:00+09:00
+categories: ["think"]
+tags: ["think"]
 ---
 
 인생은 놀랍고 내 목표는 인생을 최대한 경험하는 것이다.

@@ -1,9 +1,9 @@
 ---
 title: "Argo Rollout Experiment 실습"
-date: 2025-04-10 00:00:00 +0900
-categories: [CI/CD, GitOps]
-tags: [argo-rollout, kubernetes, experiment, a-b-testing]
+date: 2025-04-10T00:00:00+09:00
 description: "Argo Rollout의 Experiment 기능을 활용한 A/B 테스트 실습"
+categories: ["CI/CD", "GitOps"]
+tags: ["argo-rollout", "kubernetes", "experiment", "a-b-testing"]
 ---
 
 # Argo experiment

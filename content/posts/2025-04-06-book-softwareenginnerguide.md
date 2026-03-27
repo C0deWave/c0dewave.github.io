@@ -1,19 +1,8 @@
 ---
 title: "소프트웨어 엔지니어 가이드북 1~3장 리뷰"
-excerpt: "어떻게 살아갈 것인가?"
-
-categories:
-  - book_review
-tags:
-  - [book_review, soft_enginner_guide_book]
-
-permalink: /think/book_review/
-
-toc: true
-toc_sticky: true
-
-date: 2025-04-06
-last_modified_at: 2025-04-06
+date: 2025-04-06T00:00:00+09:00
+categories: ["book_review"]
+tags: ["book_review", "soft_enginner_guide_book"]
 ---
 
 ## journey : 여정 

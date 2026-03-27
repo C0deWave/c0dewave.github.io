@@ -2,8 +2,10 @@ baseURL = "https://blog.jmjang.net/"
 languageCode = "ko"
 title = "C0deWave's Blog"
 theme = "PaperMod"
-paginate = 10
 enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "C0deWave"

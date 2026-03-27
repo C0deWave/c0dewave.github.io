@@ -1,0 +1,12 @@
+.main {
+  max-width: 1000px;
+}
+
+.post-content {
+  max-width: 100%;
+}
+
+/* 코드 블록도 넓게 */
+.post-content pre {
+  max-width: 100%;
+}

@@ -33,3 +33,14 @@ enableRobotsTXT = true
 
   [params.comments]
     enabled = true
+[[menus.main]]
+  identifier = "search"
+  name = "🔍 검색"
+  url = "/search/"
+  weight = 10
+
+[[menus.main]]
+  identifier = "tags"
+  name = "🏷️ 태그"
+  url = "/tags/"
+  weight = 20
